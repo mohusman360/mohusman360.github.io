@@ -1,5 +1,5 @@
 {
-  "name": "tail-np",
+  "name": "Resume tailwind css",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "autoprefixer": "9.8.0",
     "cssnano": "^4.1.10",
