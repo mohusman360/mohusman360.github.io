@@ -1,7 +1,7 @@
 Simple resume with tailwind css
 -----------------
 
-## Install
+### Install
 ```git clone https://github.com/mohusman360/mohusman360.github.io```
 
 ```cd mohusman360.github.io```
@@ -10,7 +10,7 @@ Simple resume with tailwind css
 
 ```npm run dev```
 
-## Screenshot
+### Screenshot
 ![usman.id](https://raw.githubusercontent.com/mohusman360/mohusman360.github.io/main/dist/img/screenshot.PNG)
 
 
